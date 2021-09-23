@@ -32,12 +32,3 @@ Veja Também em [Português](README.md), [English](README-en-US.md)
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucas-azvd//">
     </a>
 </p>
-
-<p align="center"> 
-
- ## Total de view my profile <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/LucasAzvd/count.svg" />
- </p>
-
-</p>
