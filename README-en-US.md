@@ -20,7 +20,7 @@ Veja Também em [Português](README.md), [English](README-en-US.md)
 
 ### Abstract
 
-- 👨‍💻 Machine Learning Engineer at Kunumi  
+- 👨‍💻 Data Scientist at Stealth Startup   
 - 👨‍🎓 Student of System Engineer at UFMG  
 
 
