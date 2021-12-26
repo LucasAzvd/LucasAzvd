@@ -16,7 +16,7 @@ Veja Também em [Português](README.md), [English](README-en-US.md)
   </a>
 </p>
 
-## Welcome to GitLucas!</h2>
+## Welcome!</h2>
 
 ### Abstract
 
