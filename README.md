@@ -5,7 +5,7 @@ Veja Também em [Português](README.md), [English](README-en-US.md)
 ### Abstract
 
 - 👨‍💻 Cientista de Dados em uma Stealth Startup
-- 👨‍🎓 Estudante de Engenharia de Sitemas na UFMG  
+- 👨‍🎓 Engenheiro de Sitemas pela UFMG  
 
 
 ## Contact 
